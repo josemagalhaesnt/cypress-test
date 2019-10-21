@@ -4,7 +4,8 @@
   "description": "Learning how to test using Cypress E2E testing framework",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:cypress": "cypress open"
   },
   "repository": {
     "type": "git",
